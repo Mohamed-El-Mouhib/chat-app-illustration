@@ -191,6 +191,7 @@ body {
 }
 
 .duration {
+  color: white;
   margin: auto 0;
 }
 
@@ -237,7 +238,7 @@ body {
 .user #status {
   font-size: 10px;
   font-weight: 500;
-  color: hsl(0, 0%, 94%);
+  color: hsl(270, 7%, 64%);
 }
 
 .user {
