@@ -272,6 +272,8 @@ body {
 }
 
 .article h1 {
+  font-weight: 450;
+  font-size: 30px;
   color: hsl(271, 36%, 24%);
 }
 
